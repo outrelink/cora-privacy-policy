@@ -7,6 +7,10 @@
     {
       "source": "/privacy-policy",
       "destination": "/privacy-policy.html"
+    },
+    {
+      "source": "/support",
+      "destination": "/support.html"
     }
   ],
   "cleanUrls": true
